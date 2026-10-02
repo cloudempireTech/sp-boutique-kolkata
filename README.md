@@ -9,9 +9,8 @@ Static multi-page website for S P Boutique, Kolkata. Open `index.html` through a
 - CityWity corroborates address and telephone: https://www.citywity.in/boutique/kolkata/
 - Justdial listing: https://www.justdial.com/Kolkata/S-P-Boutique-Lohia-Hospital-Nopany-School-Beadon-Street-Nando-Mullick-Lane/033PXX33-XX33-121106162401-R3M7_BZDET/reviews
 
-Hours, ratings, reviews, pricing, email and social profiles are omitted because they are unverified or conflicting. Decorative garment shapes are illustrations, not product photographs. No backend or booking service is implied.
+The supplied Instagram, Facebook and Google profile links are linked on the site. Facebook corroborates the lead sheet phone number, which is also used for WhatsApp. Hours, ratings, reviews and pricing are omitted. Category imagery is AI illustration, not product photography; genuine boutique photographs are identified in `ASSET_SOURCES.md`. No backend or booking service is implied.
 
 ## Build
 
 No build step or framework. CSS and JavaScript are in `assets/`; pages are static HTML.
-
