@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://cloudempiretech.github.io/sp-boutique-kolkata/sitemap.xml
+
